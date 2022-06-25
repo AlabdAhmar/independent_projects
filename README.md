@@ -1,0 +1,1 @@
+this is a git repository for my independent projects which I use to try interesting stuff on my own
